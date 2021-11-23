@@ -10,11 +10,14 @@
 		08507783923BD5E4A8A816AD /* Pods_Dyte_Obj_C_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D41ACB54018C89B12E50ECDE /* Pods_Dyte_Obj_C_Sample.framework */; };
 		9291316B274534F100150C97 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9291316A274534F100150C97 /* AppDelegate.m */; };
 		9291316E274534F100150C97 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9291316D274534F100150C97 /* SceneDelegate.m */; };
-		92913171274534F100150C97 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92913170274534F100150C97 /* ViewController.m */; };
 		92913174274534F100150C97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92913172274534F100150C97 /* Main.storyboard */; };
 		92913176274534F500150C97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92913175274534F500150C97 /* Assets.xcassets */; };
 		92913179274534F500150C97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92913177274534F500150C97 /* LaunchScreen.storyboard */; };
 		9291317C274534F500150C97 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9291317B274534F500150C97 /* main.m */; };
+		92D0EAAD27456D230099F3D6 /* DemoOptionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92D0EAAC27456D230099F3D6 /* DemoOptionsViewController.m */; };
+		92D0EAB02745738C0099F3D6 /* TabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92D0EAAF2745738C0099F3D6 /* TabViewController.m */; };
+		92D0EAB3274576360099F3D6 /* CreateMeetingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92D0EAB2274576360099F3D6 /* CreateMeetingViewController.m */; };
+		92D0EAB627457F940099F3D6 /* JoinMeetingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92D0EAB527457F940099F3D6 /* JoinMeetingViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,13 +26,19 @@
 		9291316A274534F100150C97 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		9291316C274534F100150C97 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 		9291316D274534F100150C97 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
-		9291316F274534F100150C97 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		92913170274534F100150C97 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		92913173274534F100150C97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		92913175274534F500150C97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92913178274534F500150C97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9291317A274534F500150C97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9291317B274534F500150C97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		92D0EAAB27456D220099F3D6 /* DemoOptionsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoOptionsViewController.h; sourceTree = "<group>"; };
+		92D0EAAC27456D230099F3D6 /* DemoOptionsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoOptionsViewController.m; sourceTree = "<group>"; };
+		92D0EAAE2745738C0099F3D6 /* TabViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabViewController.h; sourceTree = "<group>"; };
+		92D0EAAF2745738C0099F3D6 /* TabViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabViewController.m; sourceTree = "<group>"; };
+		92D0EAB1274576360099F3D6 /* CreateMeetingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CreateMeetingViewController.h; sourceTree = "<group>"; };
+		92D0EAB2274576360099F3D6 /* CreateMeetingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CreateMeetingViewController.m; sourceTree = "<group>"; };
+		92D0EAB427457F940099F3D6 /* JoinMeetingViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JoinMeetingViewController.h; sourceTree = "<group>"; };
+		92D0EAB527457F940099F3D6 /* JoinMeetingViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JoinMeetingViewController.m; sourceTree = "<group>"; };
 		C3CD1A89EE241185196DFF53 /* Pods-Dyte Obj-C Sample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dyte Obj-C Sample.debug.xcconfig"; path = "Target Support Files/Pods-Dyte Obj-C Sample/Pods-Dyte Obj-C Sample.debug.xcconfig"; sourceTree = "<group>"; };
 		CB1F584961A12B8439BFA8DD /* Pods-Dyte Obj-C Sample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dyte Obj-C Sample.release.xcconfig"; path = "Target Support Files/Pods-Dyte Obj-C Sample/Pods-Dyte Obj-C Sample.release.xcconfig"; sourceTree = "<group>"; };
 		D41ACB54018C89B12E50ECDE /* Pods_Dyte_Obj_C_Sample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dyte_Obj_C_Sample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -87,10 +96,16 @@
 			children = (
 				92913169274534F100150C97 /* AppDelegate.h */,
 				9291316A274534F100150C97 /* AppDelegate.m */,
+				92D0EAAB27456D220099F3D6 /* DemoOptionsViewController.h */,
+				92D0EAAC27456D230099F3D6 /* DemoOptionsViewController.m */,
+				92D0EAAE2745738C0099F3D6 /* TabViewController.h */,
+				92D0EAAF2745738C0099F3D6 /* TabViewController.m */,
+				92D0EAB1274576360099F3D6 /* CreateMeetingViewController.h */,
+				92D0EAB2274576360099F3D6 /* CreateMeetingViewController.m */,
+				92D0EAB427457F940099F3D6 /* JoinMeetingViewController.h */,
+				92D0EAB527457F940099F3D6 /* JoinMeetingViewController.m */,
 				9291316C274534F100150C97 /* SceneDelegate.h */,
 				9291316D274534F100150C97 /* SceneDelegate.m */,
-				9291316F274534F100150C97 /* ViewController.h */,
-				92913170274534F100150C97 /* ViewController.m */,
 				92913172274534F100150C97 /* Main.storyboard */,
 				92913175274534F500150C97 /* Assets.xcassets */,
 				92913177274534F500150C97 /* LaunchScreen.storyboard */,
@@ -232,10 +247,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				92913171274534F100150C97 /* ViewController.m in Sources */,
 				9291316B274534F100150C97 /* AppDelegate.m in Sources */,
 				9291317C274534F500150C97 /* main.m in Sources */,
+				92D0EAAD27456D230099F3D6 /* DemoOptionsViewController.m in Sources */,
 				9291316E274534F100150C97 /* SceneDelegate.m in Sources */,
+				92D0EAB627457F940099F3D6 /* JoinMeetingViewController.m in Sources */,
+				92D0EAB3274576360099F3D6 /* CreateMeetingViewController.m in Sources */,
+				92D0EAB02745738C0099F3D6 /* TabViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,6 +314,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -355,6 +374,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
