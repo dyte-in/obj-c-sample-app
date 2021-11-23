@@ -40,11 +40,7 @@
 
 ## About The Project
 
-![App Screen Shot 1](./screenshot-1.png "Sample App Screen Shot 1")
-![App Screen Shot 2](./screenshot-2.png "Sample App Screen Shot 2")
-![App Screen Shot 3](./screenshot-3.png "Sample App Screen Shot 3")
-![App Screen Shot 4](./screenshot-4.png "Sample App Screen Shot 4")
-![App Screen Shot 5](./screenshot-5.png "Sample App Screen Shot 5")
+<img src="https://github.com/dyte-in/obj-c-sample-app/blob/main/screenshots/screenshot-1.png" width=175 height=400> <img src="https://github.com/dyte-in/obj-c-sample-app/blob/main/screenshots/screenshot-2.png" width=175 height=400> <img src="https://github.com/dyte-in/obj-c-sample-app/blob/main/screenshots/screenshot-3.png" width=175 height=400> <img src="https://github.com/dyte-in/obj-c-sample-app/blob/main/screenshots/screenshot-4.png" width=175 height=400> <img src="https://github.com/dyte-in/obj-c-sample-app/blob/main/screenshots/screenshot-5.png" width=175 height=400>
 
 ### Built With
 
@@ -68,7 +64,7 @@ To get a local copy up and running follow these simple steps.
   sudo gem install cocoapods
   ```
 - A working backend that can connect to Dyte APIs
-  - This app currently connects to our sample backend implementation (https://github.com/dyte-in/sample-app-backend), currently hosted at https://dyte-sample.herokuapp.com - this can be grepped and replaced if you want it to work with your own backend implementation
+  - This app currently connects to our sample backend implementation (https://github.com/dyte-in/backend-sample-app), currently hosted at https://dyte-sample.herokuapp.com - this can be grepped and replaced if you want it to work with your own backend implementation
 
 ### Installation
 
@@ -111,7 +107,7 @@ See the [open issues](https://github.com/dyte-in/obj-c-sample-app/issues) for a 
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Sincere thanks to all [our contributors](Thank you, [contributors](https://github.com/dyte-in/obj-c-sample-app/graphs/contributors)!)!
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Sincere thanks to all our contributors. Thank you, [contributors](https://github.com/dyte-in/obj-c-sample-app/graphs/contributors)!
 
 You are requested to follow the contribution guidelines specified in [CONTRIBUTING.md](./CONTRIBUTING.md) and code of conduct at [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) while contributing to the project :smile:.
 

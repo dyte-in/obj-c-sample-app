@@ -6,6 +6,6 @@ target 'Dyte Obj-C Sample' do
   use_frameworks!
 
   # Pods for Dyte Obj-C Sample
-  pod 'Alamofire'
+  pod 'AFNetworking'
   pod 'DyteSdk'
 end
