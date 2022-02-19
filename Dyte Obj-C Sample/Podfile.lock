@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - DyteSdk (1.26)
+  - DyteSdk (1.32.0)
 
 DEPENDENCIES:
   - AFNetworking
@@ -27,8 +27,8 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  DyteSdk: 3042b951bdea586999774e0a35be21c3cd02a21b
+  DyteSdk: 76ce4fcd43c19be6af6bbef21bf350d725bb33cb
 
-PODFILE CHECKSUM: 533f90b7b299e1bdfbb8e4ec67a7de327a2106c8
+PODFILE CHECKSUM: 1e392ffaf556728ed56d8c72ed1d46e0086e4b60
 
 COCOAPODS: 1.11.2
