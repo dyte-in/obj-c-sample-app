@@ -14,21 +14,25 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - DyteSdk (1.32.0)
+  - DyteSdk (1.34.1):
+    - LogRocket (= 0.28.0)
+  - LogRocket (0.28.0)
 
 DEPENDENCIES:
   - AFNetworking
-  - DyteSdk
+  - DyteSdk (= 1.34.1)
 
 SPEC REPOS:
   trunk:
     - AFNetworking
     - DyteSdk
+    - LogRocket
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  DyteSdk: 76ce4fcd43c19be6af6bbef21bf350d725bb33cb
+  DyteSdk: 7030abb07e2fe37f5c905bdb01173cc7609a4ccb
+  LogRocket: e9ae047f19ae6598e10234aa4d43906d55af1ae0
 
-PODFILE CHECKSUM: 1e392ffaf556728ed56d8c72ed1d46e0086e4b60
+PODFILE CHECKSUM: c0d4cd076150170c09e3d6b2d4ee62187baf29a4
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.10.1
